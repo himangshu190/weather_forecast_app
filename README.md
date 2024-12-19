@@ -1,4 +1,5 @@
-Click here for live view -https://himangshu190.github.io/weather_forecast_app/
+## Live Demo
+Click the link to see the live demo: -https://himangshu190.github.io/weather_forecast_app/
 
 # Weather Forecast App
 
